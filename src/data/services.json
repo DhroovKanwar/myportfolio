@@ -1,0 +1,11 @@
+[
+  { "num": "01", "title": "Business Website Development", "icon": "briefcase", "text": "Conversion-focused websites for local businesses and brands — strategy, design and build, end to end." },
+  { "num": "02", "title": "React Frontend Development", "icon": "atom", "text": "Fast, accessible, component-driven React frontends with buttery motion and pixel-perfect UI." },
+  { "num": "03", "title": "Laravel Backend Development", "icon": "server", "text": "Robust, secure Laravel APIs, business logic and databases that scale with your product." },
+  { "num": "04", "title": "Full Stack Development", "icon": "layers", "text": "One partner for the whole stack — React on the front, Laravel + MySQL on the back." },
+  { "num": "05", "title": "REST API Development", "icon": "webhook", "text": "Clean, documented REST APIs ready for web, mobile and third-party integrations." },
+  { "num": "06", "title": "Admin Panel Development", "icon": "layout-dashboard", "text": "Custom dashboards to manage content, orders, users and analytics without touching code." },
+  { "num": "07", "title": "Landing Pages", "icon": "rocket", "text": "High-impact landing pages engineered to capture leads and drive a single, clear action." },
+  { "num": "08", "title": "Website Redesign", "icon": "wand-sparkles", "text": "Transform a dated site into a premium experience that reflects the quality of your work." },
+  { "num": "09", "title": "Website Maintenance", "icon": "shield-check", "text": "Ongoing updates, performance, security and support so your site stays fast and flawless." }
+]

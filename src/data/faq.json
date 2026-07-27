@@ -1,0 +1,9 @@
+[
+  { "q": "What technologies do you build with?", "a": "React and Tailwind CSS on the frontend, Laravel with PHP and MySQL on the backend. Everything is built with a clean, API-ready architecture so your product can grow." },
+  { "q": "Can you connect a Laravel backend later?", "a": "Absolutely — that's how I architect from day one. The frontend talks to an Axios service layer, so swapping dummy data for a live Laravel API is a configuration change, not a rebuild." },
+  { "q": "How long does a typical project take?", "a": "A focused business website usually takes 7–14 days depending on scope. Full stack platforms with a custom backend and admin panel are quoted per project." },
+  { "q": "Do you offer ongoing maintenance?", "a": "Yes. I offer monthly maintenance covering updates, performance, security and small iterations so your site stays fast and current." },
+  { "q": "Will my website be mobile-friendly and fast?", "a": "Every build is fully responsive, accessible and performance-optimized — with lazy loading, optimized assets and SEO best practices baked in." },
+  { "q": "How do we get started?", "a": "Send an inquiry through the contact form or book a free consultation. We'll scope your goals, agree a plan and timeline, then I'll get building." },
+  { "q": "Do you work with international clients?", "a": "Yes — I work with startups, local businesses and brands worldwide, communicating clearly across time zones throughout the project." }
+]

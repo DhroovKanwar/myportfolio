@@ -1,0 +1,6 @@
+[
+  { "label": "Demo Projects", "value": 8, "suffix": "", "icon": "layout-grid" },
+  { "label": "Happy Clients", "value": 42, "suffix": "+", "icon": "smile" },
+  { "label": "Years Experience", "value": 6, "suffix": "+", "icon": "calendar" },
+  { "label": "Technologies", "value": 12, "suffix": "", "icon": "cpu" }
+]

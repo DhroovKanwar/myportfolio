@@ -1,0 +1,14 @@
+[
+  { "name": "React", "icon": "react", "level": "Expert", "category": "Frontend", "blurb": "Component architecture, hooks, performance." },
+  { "name": "Laravel", "icon": "laravel", "level": "Expert", "category": "Backend", "blurb": "Eloquent, queues, auth, clean APIs." },
+  { "name": "PHP", "icon": "php", "level": "Expert", "category": "Backend", "blurb": "Modern PHP 8, OOP, best practices." },
+  { "name": "JavaScript", "icon": "javascript", "level": "Expert", "category": "Language", "blurb": "ES2023, async, DOM, tooling." },
+  { "name": "TypeScript", "icon": "typescript", "level": "Advanced", "category": "Language", "blurb": "Type-safe apps and APIs." },
+  { "name": "Tailwind CSS", "icon": "tailwind", "level": "Expert", "category": "Frontend", "blurb": "Design systems at speed." },
+  { "name": "MySQL", "icon": "mysql", "level": "Advanced", "category": "Database", "blurb": "Schema design, optimization." },
+  { "name": "Git", "icon": "git", "level": "Expert", "category": "Tooling", "blurb": "Branching, reviews, clean history." },
+  { "name": "GitHub", "icon": "github", "level": "Expert", "category": "Tooling", "blurb": "CI/CD, actions, collaboration." },
+  { "name": "Axios", "icon": "axios", "level": "Expert", "category": "Frontend", "blurb": "Robust API service layers." },
+  { "name": "REST API", "icon": "api", "level": "Expert", "category": "Backend", "blurb": "Versioned, documented endpoints." },
+  { "name": "Vite", "icon": "vite", "level": "Advanced", "category": "Tooling", "blurb": "Lightning dev & build tooling." }
+]

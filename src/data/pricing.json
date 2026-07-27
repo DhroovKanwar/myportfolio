@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Starter",
+    "price": "$499",
+    "period": "one-time",
+    "tagline": "For individuals & new local businesses getting online.",
+    "highlight": false,
+    "features": [
+      "Up to 5 pages",
+      "Premium React frontend",
+      "Fully responsive design",
+      "Contact form",
+      "Basic SEO setup",
+      "2 rounds of revisions",
+      "7-day delivery"
+    ],
+    "cta": "Start with Starter"
+  },
+  {
+    "name": "Business",
+    "price": "$1,299",
+    "period": "one-time",
+    "tagline": "For growing brands that need to convert and scale.",
+    "highlight": true,
+    "features": [
+      "Up to 12 pages",
+      "Custom UI/UX design",
+      "Advanced animations & motion",
+      "CMS-ready architecture",
+      "Blog setup",
+      "On-page SEO & analytics",
+      "Laravel backend ready",
+      "4 rounds of revisions",
+      "14-day delivery"
+    ],
+    "cta": "Choose Business"
+  },
+  {
+    "name": "Premium",
+    "price": "Custom",
+    "period": "project-based",
+    "tagline": "Full stack platforms with backend, admin & integrations.",
+    "highlight": false,
+    "features": [
+      "Unlimited pages",
+      "Full stack React + Laravel",
+      "Custom admin dashboard",
+      "REST API & integrations",
+      "Payments & auth",
+      "Performance optimization",
+      "Priority support",
+      "Ongoing maintenance option"
+    ],
+    "cta": "Request a quote"
+  }
+]

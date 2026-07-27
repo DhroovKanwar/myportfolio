@@ -1,0 +1,9 @@
+[
+  { "step": "01", "title": "Discovery", "icon": "search", "text": "We dig into your goals, audience and competitors to define what success actually looks like." },
+  { "step": "02", "title": "Planning", "icon": "map", "text": "Sitemap, scope, content plan and a clear timeline — no surprises, everything agreed up front." },
+  { "step": "03", "title": "UI/UX", "icon": "pen-tool", "text": "Wireframes and high-fidelity design of every screen, crafted for clarity and conversion." },
+  { "step": "04", "title": "Development", "icon": "code", "text": "Pixel-perfect React frontend wired to a clean, scalable Laravel-ready architecture." },
+  { "step": "05", "title": "Testing", "icon": "bug", "text": "Cross-device, cross-browser QA plus accessibility and performance passes before launch." },
+  { "step": "06", "title": "Deployment", "icon": "rocket", "text": "Smooth go-live with domains, SSL, analytics and everything configured properly." },
+  { "step": "07", "title": "Support", "icon": "life-buoy", "text": "Ongoing maintenance, iterations and support so your site keeps performing long-term." }
+]

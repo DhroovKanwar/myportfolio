@@ -1,0 +1,23 @@
+{
+  "name": "Dhruv Kanwar",
+  "brand": "Dhruv Codes",
+  "role": "Senior Full Stack Developer",
+  "tagline": "React frontends + Laravel backends for brands that mean business.",
+  "location": "Punjab, India",
+  "email": "dhroovkanwar@gmail  .com",
+  "phone": "+91 XXXXXXXXXX",
+  "whatsapp": "+91 XXXXXXXXXX",
+  "whatsappLink": "https://wa.me/91XXXXXXXXXX",
+  "availability": "Available for freelance & contract",
+  "yearsExperience": 6,
+  "bio": [
+    "I'm Dhruv — a full stack developer who builds premium business websites that don't just look expensive, they perform. I pair pixel-obsessed React frontends with rock-solid Laravel backends.",
+    "For the past six years I've helped startups, local businesses and growing brands turn visitors into paying customers with fast, accessible, conversion-focused websites.",
+    "My sweet spot is the full journey: strategy, interface design, front-of-house React, and the API/admin layer in Laravel + MySQL that keeps everything running."
+  ],
+  "principles": [
+    { "title": "Conversion first", "text": "Every layout decision is measured against one question: does this help the visitor say yes?" },
+    { "title": "Craft obsessed", "text": "Micro-interactions, motion and typography treated with the same rigor as the architecture." },
+    { "title": "Built to scale", "text": "Clean, documented code and an API-ready architecture so the product grows with the business." }
+  ]
+}

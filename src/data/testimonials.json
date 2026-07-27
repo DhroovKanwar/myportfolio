@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Aarav Mehta",
+    "role": "Founder, Signal Digital",
+    "avatar": "https://images.pexels.com/photos/17049771/pexels-photo-17049771.jpeg",
+    "rating": 5,
+    "quote": "Dhruv delivered a site that looks like a million-dollar agency built it. Our lead volume doubled in the first month after launch."
+  },
+  {
+    "name": "Sofia Alvarez",
+    "role": "Owner, Maison Levain",
+    "avatar": "https://images.pexels.com/photos/37148308/pexels-photo-37148308.jpeg",
+    "rating": 5,
+    "quote": "The online ordering flow he built is so smooth our customers keep complimenting it. Beautiful work, delivered ahead of schedule."
+  },
+  {
+    "name": "Daniel Cho",
+    "role": "GM, Azure Bay Resort",
+    "avatar": "https://images.unsplash.com/photo-1685760259914-ee8d2c92d2e0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA0MTJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzg1MDczNjY3fDA&ixlib=rb-4.1.0&q=85",
+    "rating": 5,
+    "quote": "Every detail was considered. The animations, the speed, the booking journey — guests now book directly instead of via third parties."
+  },
+  {
+    "name": "Priya Nair",
+    "role": "Director, Lumière Salon & Spa",
+    "avatar": "https://images.pexels.com/photos/17049771/pexels-photo-17049771.jpeg",
+    "rating": 5,
+    "quote": "Working with Dhruv felt like having a senior team on call. Clear communication, premium result, and it just works flawlessly."
+  },
+  {
+    "name": "Marcus Reyes",
+    "role": "Owner, IronPulse Fitness",
+    "avatar": "https://images.unsplash.com/photo-1685760259914-ee8d2c92d2e0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NjA0MTJ8MHwxfHNlYXJjaHwzfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMGhlYWRzaG90JTIwcG9ydHJhaXR8ZW58MHx8fHwxNzg1MDczNjY3fDA&ixlib=rb-4.1.0&q=85",
+    "rating": 5,
+    "quote": "Our free-trial sign-ups jumped the week we went live. The site is fast, gorgeous and converts. Exactly what we needed."
+  },
+  {
+    "name": "Elena Rossi",
+    "role": "CMO, Meridian Estates",
+    "avatar": "https://images.pexels.com/photos/37148308/pexels-photo-37148308.jpeg",
+    "rating": 5,
+    "quote": "The property search experience he built rivals platforms with huge teams. Truly a senior-level full stack developer."
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "primary": [
+    { "label": "Home", "path": "/" },
+    { "label": "About", "path": "/about" },
+    { "label": "Work", "path": "/portfolio" },
+    { "label": "Services", "path": "/services" },
+    { "label": "Stack", "path": "/tech-stack" },
+    { "label": "Process", "path": "/process" },
+
+    { "label": "Reviews", "path": "/testimonials" },
+    { "label": "FAQ", "path": "/faq" },
+    { "label": "Contact", "path": "/contact" }
+  ],
+  "footerServices": [
+    { "label": "Business Websites", "path": "/services" },
+    { "label": "React Development", "path": "/services" },
+    { "label": "Laravel Backends", "path": "/services" },
+    { "label": "REST APIs", "path": "/services" },
+    { "label": "Website Redesign", "path": "/services" }
+  ]
+}

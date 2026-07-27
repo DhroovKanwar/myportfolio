@@ -1,0 +1,34 @@
+[
+  {
+    "platform": "YouTube",
+    "handle": "Dhruv Anjana Vlogs",
+    "icon": "youtube",
+    "url": "https://www.youtube.com/@dhruvanjanavlogs",
+    "description": "Behind-the-scenes builds, dev vlogs and tutorials on shipping real client websites.",
+    "color": "#FF0033"
+  },
+  {
+    "platform": "Instagram",
+    "handle": "@dhruvkanwar_0",
+    "icon": "instagram",
+    "url": "https://www.instagram.com/dhruvkanwar_0?utm_medium=copy_link",
+    "description": "Design snapshots, UI experiments and the visual side of every project.",
+    "color": "#E1306C"
+  },
+  {
+    "platform": "GitHub",
+    "handle": "@DhroovKanwar",
+    "icon": "github",
+    "url": "https://github.com/DhroovKanwar",
+    "description": "Open-source components, starter kits and the code behind my case studies.",
+    "color": "#8B5CF6"
+  },
+  {
+    "platform": "LinkedIn",
+    "handle": "@DhroovKanwar",
+    "icon": "linkedin",
+    "url": "https://www.linkedin.com/in/dhroovkanwar?utm_source=share_via&utm_content=profile&utm_medium=member_ios",
+    "description": "Client work, availability and professional updates. Let's connect.",
+    "color": "#0A66C2"
+  }
+]
