@@ -133,6 +133,8 @@ export default function ContactSection() {
       </motion.div>
 
       {/* Right: form */}
+
+      {/*
       <motion.div
         variants={revealUp}
         initial="hidden"
@@ -214,7 +216,7 @@ export default function ContactSection() {
             >
               {submitting ? <><Loader2 className="h-4 w-4 animate-spin" /> Sending...</> : <><Send className="h-4 w-4" /> Send Inquiry</>}
             </button>
-            {/* <a
+           <a
               href={profile.whatsappLink}
               target="_blank"
               rel="noopener noreferrer"
@@ -222,7 +224,7 @@ export default function ContactSection() {
               className="inline-flex items-center justify-center gap-2 rounded-full bg-[#25D366] px-7 py-3.5 text-sm font-semibold text-white transition-transform hover:-translate-y-0.5"
             >
               <MessageCircle className="h-4 w-4" /> WhatsApp Me
-            </a> */}
+            </a> 
             <a
               href={`mailto:${profile.email}?subject=Free%20Consultation`}
               data-testid="contact-consultation-button"
@@ -232,7 +234,7 @@ export default function ContactSection() {
             </a>
           </div>
         </form>
-      </motion.div>
+      </motion.div>*/}
     </div>
   );
 }
