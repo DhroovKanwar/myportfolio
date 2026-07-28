@@ -28,8 +28,8 @@
     "features": ["Service booking calendar", "Instant quote estimator", "Technician profiles", "Customer review wall"],
     "technologies": ["React", "Tailwind CSS", "React Router", "Axios"],
     "futureBackend": ["Laravel booking engine", "SMS reminders", "Mechanic dashboard", "Invoice generation"],
-    "liveUrl": "#",
-    "caseStudyUrl": "#"
+    "liveUrl": "https://premium-auto-service-website-phi.vercel.app/services",
+    "caseStudyUrl": "https://premium-auto-service-website-phi.vercel.app/services"
   },
   {
     "slug": "hotel-resort",
@@ -64,11 +64,11 @@
     "caseStudyUrl": "#"
   },
   {
-    "slug": "marketing-agency",
-    "title": "Signal Digital",
-    "type": "Digital Marketing Agency",
-    "category": "Business",
-    "tag": "Digital Marketing Agency",
+    "slug": "jewellery-ecommerce",
+    "title": "Jewellery Ecommerce Store",
+    "type": "Jewellery Ecommerce",
+    "category": "Ecommerce",
+    "tag": "Jewellery",
     "year": "2023",
     "image": "https://images.pexels.com/photos/8117415/pexels-photo-8117415.jpeg",
     "accent": "#8B5CF6",
@@ -76,8 +76,8 @@
     "features": ["Animated case studies", "Results & metrics", "Service packages", "Lead capture funnel"],
     "technologies": ["React", "Framer Motion", "Tailwind CSS", "Axios"],
     "futureBackend": ["Laravel CRM & leads", "Blog & CMS", "Email automation", "Analytics dashboard"],
-    "liveUrl": "#",
-    "caseStudyUrl": "#"
+    "liveUrl": "https://jewellery-website-eta.vercel.app/",
+    "caseStudyUrl": "https://jewellery-website-eta.vercel.app/"
   },
   {
     "slug": "gym-fitness",
