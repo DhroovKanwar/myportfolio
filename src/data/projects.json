@@ -108,8 +108,8 @@
     "features": ["Treatment menu & pricing", "Appointment booking", "Stylist gallery", "Gift vouchers"],
     "technologies": ["React", "Framer Motion", "Tailwind CSS", "Axios"],
     "futureBackend": ["Laravel appointment engine", "Staff rota API", "Voucher payments", "Client history"],
-    "liveUrl": "https://salon-website-dhruv-code1.vercel.app/",
-    "caseStudyUrl": "https://salon-website-dhruv-code1.vercel.app/"
+    "liveUrl": "https://salon-website-umber-three.vercel.app/",
+    "caseStudyUrl": "https://salon-website-umber-three.vercel.app/"
   },
   {
     "slug": "real-estate",
