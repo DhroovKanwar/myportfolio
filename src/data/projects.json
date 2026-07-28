@@ -12,8 +12,8 @@
     "features": ["Online order & pre-order flow", "Daily menu with availability", "Store locator & hours", "Instagram gallery feed"],
     "technologies": ["React", "Tailwind CSS", "Framer Motion", "Axios"],
     "futureBackend": ["Laravel order management", "Stock & availability API", "Loyalty points", "Email order receipts"],
-    "liveUrl": "#",
-    "caseStudyUrl": "#"
+    "liveUrl": "https://bakery-universal.vercel.app/",
+    "caseStudyUrl": "https://bakery-universal.vercel.app/"
   },
   {
     "slug": "car-service",
