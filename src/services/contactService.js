@@ -1,32 +1,30 @@
-import apiClient from "@/api/client";
-import ENDPOINTS from "@/api/endpoints";
-import { USE_MOCK, withLatency, maybeFail } from "@/services/config";
-
-/**
- * Contact service.
- *
- * Today: simulates a POST /api/contact with latency + a tiny random failure
- * rate so the UI's success/error toasts are both exercisable.
- *
- * Tomorrow (Laravel): flip USE_MOCK -> false in services/config.js and this
- * fires a real POST to `${REACT_APP_BACKEND_URL}/api/contact`. No UI change.
- */
 export const contactService = {
   async submitInquiry(payload) {
-    if (USE_MOCK) {
-      if (maybeFail(0.12)) {
-        await withLatency(null, 900);
-        throw { status: 500, message: "Server is busy. Please retry in a moment." };
+
+    const formData = new URLSearchParams();
+
+    Object.entries(payload).forEach(([key, value]) => {
+      formData.append(key, value ?? "");
+    });
+
+    const response = await fetch(
+      "https://script.google.com/macros/s/AKfycbxajZDTX50gn09XOTNX4sSgnrYYfp_l5iTNZDH1B4NJfKTxElWqP3J0OqLy7n498PwxNQ/exec",
+      {
+        method: "POST",
+        body: formData,
       }
-      const receipt = {
-        id: `INQ-${Date.now().toString(36).toUpperCase()}`,
-        received_at: new Date().toISOString(),
-        ...payload,
-      };
-      return withLatency({ success: true, data: receipt }, 1100);
+    );
+
+    if (!response.ok) {
+      throw new Error("Failed to submit inquiry");
     }
-    const { data } = await apiClient.post(ENDPOINTS.contact.submit, payload);
-    return data;
+
+    return {
+      success: true,
+      data: {
+        id: `INQ-${Date.now()}`,
+      },
+    };
   },
 };
 

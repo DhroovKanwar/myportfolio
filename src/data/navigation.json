@@ -3,7 +3,7 @@
     { "label": "Home", "path": "/" },
     { "label": "About", "path": "/about" },
     { "label": "Work", "path": "/portfolio" },
-    { "label": "Services", "path": "/services" },
+  
     { "label": "Stack", "path": "/tech-stack" },
     { "label": "Process", "path": "/process" },
 
