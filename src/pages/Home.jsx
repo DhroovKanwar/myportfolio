@@ -87,12 +87,12 @@ export default function Home() {
       </Section>
 
       {/* Pricing */}
-      <Section>
+      {/* <Section>
         <div className="mb-14 text-center">
           <SectionHeading align="center" overline="Pricing" title="Simple, transparent pricing" lead="Pick a starting point — every project is tailored to your goals." />
         </div>
         <PricingSection />
-      </Section>
+      </Section> */}
 
       {/* Testimonials */}
       <Section className="bg-card/20">
