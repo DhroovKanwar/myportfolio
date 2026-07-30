@@ -31,6 +31,22 @@
     "liveUrl": "https://premium-auto-service-website-phi.vercel.app/services",
     "caseStudyUrl": "https://premium-auto-service-website-phi.vercel.app/services"
   },
+    {
+    "slug": "restaurant",
+    "title": "Nocturne Dining",
+    "type": "Fine-Dining Restaurant",
+    "category": "Hospitality",
+    "tag": "Restaurant",
+    "year": "2024",
+    "image": "https://images.pexels.com/photos/10633476/pexels-photo-10633476.jpeg",
+    "accent": "#EF4444",
+    "overview": "An elegant restaurant site with a living menu and reservation flow designed to fill tables on quiet nights.",
+    "features": ["Interactive menu", "Table reservations", "Chef & story section", "Events & private dining"],
+    "technologies": ["React", "Tailwind CSS", "Framer Motion", "React Router"],
+    "futureBackend": ["Laravel reservation API", "Menu CMS", "Waitlist notifications", "Loyalty program"],
+    "liveUrl": "https://brewhaus-eight.vercel.app/",
+    "caseStudyUrl": "https://brewhaus-eight.vercel.app/"
+  },
   
   {
     "slug": "jewellery-ecommerce",
