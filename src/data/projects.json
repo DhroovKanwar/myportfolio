@@ -171,5 +171,44 @@
     "futureBackend": ["Laravel appointment engine", "Staff rota API", "Voucher payments", "Client history"],
     "liveUrl": "https://salon-website-umber-three.vercel.app/",
     "caseStudyUrl": "https://salon-website-umber-three.vercel.app/"
-  }
+  },
+  {
+  "slug": "ai-helper",
+  "title": "AI Helper",
+  "type": "AI Assistant Platform",
+  "category": "AI & SaaS",
+  "tag": "AI",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+  "accent": "#6366F1",
+  "overview": "A modern AI-powered assistant platform designed to help users generate content, solve problems and complete everyday tasks through a simple and intuitive interface.",
+  "features": [
+    "AI-powered chat assistant",
+    "Smart content generation",
+    "Instant answers",
+    "Conversation history",
+    "Prompt-based assistance",
+    "Modern dashboard",
+    "Responsive interface",
+    "Interactive AI experience"
+  ],
+  "technologies": [
+    "React",
+    "Tailwind CSS",
+    "JavaScript",
+    "AI API"
+  ],
+  "futureBackend": [
+    "Laravel API",
+    "User authentication",
+    "AI usage & token management",
+    "Conversation history database",
+    "Subscription & billing system",
+    "Admin dashboard",
+    "Usage analytics",
+    "API management"
+  ],
+  "liveUrl": "https://workspace-ai-delta.vercel.app/",
+  "caseStudyUrl": "https://workspace-ai-delta.vercel.app/"
+}
 ]
