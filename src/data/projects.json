@@ -47,6 +47,22 @@
     "liveUrl": "https://brewhaus-eight.vercel.app/",
     "caseStudyUrl": "https://brewhaus-eight.vercel.app/"
   },
+   {
+    "slug": "cafe",
+    "title": "Brew Coffee",
+    "type": "Fine-Dining Restaurant",
+    "category": "Hospitality",
+    "tag": "Cafe",
+    "year": "2024",
+    "image": "https://images.pexels.com/photos/27860686/pexels-photo-27860686.jpeg",
+    "accent": "#EF4444",
+    "overview": "Coffee shop website with a living menu and reservation flow designed to fill tables on quiet nights.",
+    "features": ["Interactive menu", "Table reservations", "Chef & story section", "Events & private dining"],
+    "technologies": ["React", "Tailwind CSS", "Framer Motion", "React Router"],
+    "futureBackend": ["Laravel reservation API", "Menu CMS", "Waitlist notifications", "Loyalty program"],
+    "liveUrl": "https://coffee-dhruv-code1.vercel.app/",
+    "caseStudyUrl": "https://coffee-dhruv-code1.vercel.app/"
+  },
   
   {
     "slug": "jewellery-ecommerce",
@@ -64,7 +80,82 @@
     "liveUrl": "https://jewellery-website-eta.vercel.app/",
     "caseStudyUrl": "https://jewellery-website-eta.vercel.app/"
   },
-  
+  {
+  "slug": "dentist-clinic",
+  "title": "Dentist Clinic Website",
+  "type": "Dental Clinic",
+  "category": "Healthcare",
+  "tag": "Dentist",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/3845983/pexels-photo-3845983.jpeg",
+  "accent": "#0EA5E9",
+  "overview": "A premium dental clinic website designed to build trust, showcase treatments and turn visitors into appointment bookings.",
+  "features": [
+    "Interactive treatment showcase",
+    "Doctor & clinic profile",
+    "Before & after gallery",
+    "Online appointment booking",
+    "Patient testimonials",
+    "Emergency dental CTA"
+  ],
+  "technologies": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "GSAP"
+  ],
+  "futureBackend": [
+    "Laravel appointment management",
+    "Patient & lead CRM",
+    "Doctor dashboard",
+    "WhatsApp appointment automation",
+    "Email & SMS reminders",
+    "Analytics dashboard"
+  ],
+  "liveUrl": "https://dentist-blond-seven.vercel.app/",
+  "caseStudyUrl": "https://dentist-blond-seven.vercel.app/"
+},
+  {
+  "slug": "modern-ecommerce-store",
+  "title": "Modern Ecommerce Store",
+  "type": "Ecommerce Store",
+  "category": "Ecommerce",
+  "tag": "Online Store",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg",
+  "accent": "#F97316",
+  "overview": "A modern, conversion-focused ecommerce store built to showcase products, simplify the shopping experience and turn visitors into customers.",
+  "features": [
+    "Interactive product showcase",
+    "Product categories",
+    "Advanced search & filtering",
+    "Product detail pages",
+    "Shopping cart",
+    "Wishlist",
+    "Customer reviews",
+    "Discount & offer sections",
+    "Secure checkout experience",
+    "Fully responsive design"
+  ],
+  "technologies": [
+    "React",
+    "Framer Motion",
+    "Tailwind CSS",
+    "Axios"
+  ],
+  "futureBackend": [
+    "Laravel ecommerce API",
+    "Product & inventory management",
+    "Order management system",
+    "Customer accounts",
+    "Payment gateway integration",
+    "Coupon & discount management",
+    "WhatsApp order automation",
+    "Admin dashboard & analytics"
+  ],
+  "liveUrl": "https://cloth-palace-ecommerce-demo.vercel.app/",
+  "caseStudyUrl": "https://cloth-palace-ecommerce-demo.vercel.app/"
+},
   {
     "slug": "salon-spa",
     "title": "Lumière Salon & Spa",
