@@ -9,7 +9,7 @@ import portfolioService from "@/services/portfolioService";
 import { staggerContainer } from "@/utils/motion";
 import { cn } from "@/lib/utils";
 
-const FILTERS = ["All", "Business", "Hospitality", "Automotive", "Healthcare", "Fitness", "Real Estate"];
+const FILTERS = ["All", "Business", "Hospitality","Ecommerce", "Automotive", "Healthcare","AI & SaaS", "Fitness", "Real Estate"];
 
 export default function PortfolioSection({ limit, showFilter = true }) {
   const navigate = useNavigate();
