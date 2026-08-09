@@ -47,6 +47,42 @@
     "liveUrl": "https://brewhaus-eight.vercel.app/",
     "caseStudyUrl": "https://brewhaus-eight.vercel.app/"
   },
+  {
+  "slug": "aura-boutique-stay",
+  "title": "AURA — Boutique Stay",
+  "type": "Boutique Hospitality",
+  "category": "Hospitality",
+  "tag": "Boutique Stay",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg",
+  "accent": "#B5573A",
+  "overview": "A refined boutique-stay experience designed around considered spaces, direct booking and a slower, more personal way to stay.",
+  "features": [
+    "Direct booking experience",
+    "Property & room showcase",
+    "Local experiences",
+    "Immersive gallery",
+    "Location & stay information",
+    "WhatsApp enquiries"
+  ],
+  "technologies": [
+    "React",
+    "Vite",
+    "TypeScript",
+    "Tailwind CSS",
+    "Framer Motion"
+  ],
+  "futureBackend": [
+    "Laravel booking API",
+    "Availability management",
+    "Room & property CMS",
+    "WhatsApp booking automation",
+    "Guest management",
+    "Direct booking notifications"
+  ],
+  "liveUrl": "https://hotel-web-gamma-sable.vercel.app/",
+  "caseStudyUrl": "https://hotel-web-gamma-sable.vercel.app/"
+},
    {
     "slug": "cafe",
     "title": "Brew Coffee",
