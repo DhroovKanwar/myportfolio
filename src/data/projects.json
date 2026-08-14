@@ -209,6 +209,50 @@
     "caseStudyUrl": "https://salon-website-umber-three.vercel.app/"
   },
   {
+    "slug": "salon-management",
+    "title": "Lumière Salon Manager",
+    "type": "Salon Management System",
+    "category": "Business",
+    "tag": "Management System",
+    "year": "2024",
+    "image": "https://images.pexels.com/photos/3993449/pexels-photo-3993449.jpeg",
+    "accent": "#8B5CF6",
+    "overview": "The staff-side counterpart to the salon site — a calm operations dashboard where the front desk runs the day: bookings, stylist rotas, billing and client history in one place.",
+    "features": ["Appointment calendar & rota", "Client records & visit history", "Billing, invoices & vouchers", "Stock and service management", "Revenue & staff performance reports"],
+    "technologies": ["React", "TypeScript", "Tailwind CSS", "React Query", "Recharts"],
+    "futureBackend": ["Laravel scheduling API", "Role-based staff accounts", "Stripe payments & payouts", "SMS/email reminders", "Inventory sync"],
+    "liveUrl": "https://salon-demo-new.vercel.app/",
+    "caseStudyUrl": "https://salon-demo-new.vercel.app/"
+  },
+  {
+  "slug": "mediva-pharmacy",
+  "title": "Mediva Pharmacy",
+  "type": "Online Medicine Delivery",
+  "category": "Healthcare",
+  "tag": "E-Commerce",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/3873188/pexels-photo-3873188.jpeg",
+  "accent": "#0F7C63",
+  "overview": "The customer-facing storefront for a neighbourhood pharmacy — search a medicine or photograph a prescription, and a pharmacist builds the order and delivers it. Mobile-first throughout, with prescription-only items flagged at every step from card to checkout.",
+  "features": [
+    "Medicine search with filters, sorting & salt matching",
+    "Prescription upload with drag-drop and review status",
+    "Persistent cart & four-step checkout",
+    "Order tracking timeline & one-tap reorder",
+    "Account, order history & prescription records"
+  ],
+  "technologies": ["React", "Vite", "Tailwind CSS", "React Router", "Framer Motion"],
+  "futureBackend": [
+    "Laravel REST API & catalogue",
+    "Sanctum auth & pharmacist accounts",
+    "Payment gateway integration",
+    "Prescription verification workflow",
+    "Delivery partner tracking & webhooks"
+  ],
+  "liveUrl": "https://medvi-omega.vercel.app/",
+  "caseStudyUrl": "https://medvi-omega.vercel.app/"
+},
+  {
   "slug": "ai-helper",
   "title": "AI Helper",
   "type": "AI Assistant Platform",
