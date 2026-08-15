@@ -35,7 +35,7 @@ const PremiumButton = forwardRef(
         {...props}
       >
         {variant === "gradient" && (
-          <span className="absolute inset-0 rounded-full bg-gradient-to-r from-primary via-secondary to-accent" />
+          <span className="absolute inset-0 rounded-full bg-gradient-to-r from-accent via-accent/90 to-accent/70" />
         )}
         <span className="relative z-10 inline-flex items-center gap-2">{children}</span>
       </motion.button>

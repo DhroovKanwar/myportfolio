@@ -14,20 +14,21 @@
         --card-foreground: 0 0% 9%;
         --popover: 0 0% 100%;
         --popover-foreground: 0 0% 9%;
-        --primary: 220 80% 56%;
+        --primary: 230 73% 54%;
         --primary-foreground: 0 0% 98%;
-        --secondary: 280 70% 60%;
-        --secondary-foreground: 0 0% 98%;
+        --secondary: 0 0% 94%;
+        --secondary-foreground: 0 0% 9%;
         --muted: 0 0% 92%;
         --muted-foreground: 0 0% 40%;
-        --accent: 24 100% 50%;
-        --accent-foreground: 0 0% 9%;
+        --accent: 230 73% 54%;
+        --accent-foreground: 0 0% 100%;
         --destructive: 0 84.2% 60.2%;
         --destructive-foreground: 0 0% 98%;
-        --border: 0 0% 85%;
-        --input: 0 0% 85%;
-        --ring: 220 80% 56%;
+        --border: 0 0% 82%;
+        --input: 0 0% 82%;
+        --ring: 230 73% 54%;
         --radius: 1rem;
+        --shadow-card: 0 1px 2px rgba(15,15,20,0.04), 0 14px 32px -22px rgba(15,15,20,0.35);
     }
 
     .dark {
@@ -37,19 +38,20 @@
         --card-foreground: 0 0% 98%;
         --popover: 0 0% 6.5%;
         --popover-foreground: 0 0% 98%;
-        --primary: 220 85% 60%;
+        --primary: 230 88% 63%;
         --primary-foreground: 0 0% 100%;
-        --secondary: 280 70% 62%;
+        --secondary: 0 0% 14%;
         --secondary-foreground: 0 0% 98%;
         --muted: 0 0% 12%;
         --muted-foreground: 0 0% 64%;
-        --accent: 24 100% 52%;
+        --accent: 230 88% 63%;
         --accent-foreground: 0 0% 100%;
         --destructive: 0 62.8% 45%;
         --destructive-foreground: 0 0% 98%;
         --border: 0 0% 15%;
         --input: 0 0% 15%;
-        --ring: 220 85% 60%;
+        --ring: 230 88% 63%;
+        --shadow-card: none;
     }
 }
 
@@ -98,12 +100,15 @@ html.lenis, html.lenis body {
     font-size: 0.72rem;
 }
 
-/* ---------- Gradient text ---------- */
+/* ---------- Accent text ---------- */
 .text-gradient {
-    background-image: linear-gradient(100deg, hsl(var(--primary)), hsl(var(--secondary)) 55%, hsl(var(--accent)));
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
+    color: hsl(var(--accent));
+}
+
+/* ---------- Card definition (light mode relies on shadow since borders are subtle) ---------- */
+.rounded-2xl.border-border,
+.rounded-3xl.border-border {
+    box-shadow: var(--shadow-card);
 }
 
 /* ---------- Glass ---------- */

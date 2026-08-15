@@ -16,7 +16,7 @@ export default function ProcessSection() {
       {/* track */}
       <div className="absolute left-5 top-0 h-full w-px bg-border sm:left-8" aria-hidden />
       <motion.div
-        className="absolute left-5 top-0 w-px origin-top bg-gradient-to-b from-primary via-secondary to-accent sm:left-8"
+        className="absolute left-5 top-0 w-px origin-top bg-accent sm:left-8"
         style={{ scaleY, height: "100%" }}
         aria-hidden
       />
