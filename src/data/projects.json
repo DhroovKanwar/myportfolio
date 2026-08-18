@@ -192,6 +192,7 @@
   "liveUrl": "https://cloth-palace-ecommerce-demo.vercel.app/",
   "caseStudyUrl": "https://cloth-palace-ecommerce-demo.vercel.app/"
 },
+
   {
     "slug": "salon-spa",
     "title": "Lumière Salon & Spa",
@@ -223,6 +224,22 @@
     "futureBackend": ["Laravel scheduling API", "Role-based staff accounts", "Stripe payments & payouts", "SMS/email reminders", "Inventory sync"],
     "liveUrl": "https://salon-demo-new.vercel.app/",
     "caseStudyUrl": "https://salon-demo-new.vercel.app/"
+  },
+    {
+    "slug": "propstack",
+    "title": "Propstack",
+    "type": "Property Dealer CRM",
+    "category": "Business",
+    "tag": "Real Estate",
+    "year": "2026",
+    "image": "https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg",
+    "accent": "#1E6640",
+    "overview": "A WhatsApp-first inventory and lead tool for property dealers — build a shortlist per customer, send one link, and keep owner details private.",
+    "features": ["Property register with photos", "Per-customer shortlist", "WhatsApp share link", "Lead follow-up board"],
+    "technologies": ["React", "Vite", "Custom CSS", "WhatsApp Deep Links"],
+    "futureBackend": ["Supabase inventory & auth", "Shortlist link resolver", "Photo storage & CDN", "Lead capture webhooks"],
+    "liveUrl": "https://property-1-livid.vercel.app/",
+    "caseStudyUrl": "https://property-1-livid.vercel.app/"
   },
   {
   "slug": "mediva-pharmacy",
