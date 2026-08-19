@@ -323,5 +323,27 @@
   ],
   "liveUrl": "https://workspace-ai-delta.vercel.app/",
   "caseStudyUrl": "https://workspace-ai-delta.vercel.app/"
+},
+{
+  "slug": "zafrani-restaurant",
+  "title": "Zafrani Restaurant",
+  "type": "Indian Restaurant Website",
+  "category": "Hospitality",
+  "tag": "Restaurant",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/10633476/pexels-photo-10633476.jpeg",
+  "accent": "#D98E2B",
+  "overview": "A pitch-ready site for a real Zirakpur restaurant with no web presence — built around their own Instagram photography and genuine customer reviews to make the case for going online.",
+  "features": [
+    "Hero, menu, gallery & testimonials sections",
+    "Real dish photography sourced from the restaurant's Instagram",
+    "Real customer review cards with star ratings",
+    "Click-to-call & embedded Google Maps location",
+    "Saffron/maroon brand palette matching their own logo"
+  ],
+  "technologies": ["React", "Vite", "Tailwind CSS"],
+  "futureBackend": ["Laravel booking/enquiry API", "CMS-managed menu", "Owner-editable gallery", "WhatsApp enquiry automation"],
+  "liveUrl": "https://zafrani-restaurant.vercel.app/",
+  "caseStudyUrl": "https://zafrani-restaurant.vercel.app/"
 }
 ]
