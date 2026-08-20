@@ -345,5 +345,35 @@
   "futureBackend": ["Laravel booking/enquiry API", "CMS-managed menu", "Owner-editable gallery", "WhatsApp enquiry automation"],
   "liveUrl": "https://zafrani-restaurant.vercel.app/",
   "caseStudyUrl": "https://zafrani-restaurant.vercel.app/"
+},
+{
+  "slug": "ai-receptionist",
+  "title": "AI Receptionist",
+  "type": "AI Voice Agent Demo",
+  "category": "AI & SaaS",
+  "tag": "AI",
+  "year": "2026",
+  "image": "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg",
+  "accent": "#3BD37F",
+  "overview": "A live-call simulation for a service-business AI receptionist — configure the client's business name, city and callout fee, then run a mock phone call and watch the agent build a structured work order in real time.",
+  "features": [
+    "Configurable business identity per demo (name, city, diagnostic fee, agent name)",
+    "Simulated live call with listening/thinking/speaking states",
+    "Real-time transcript log of caller and agent turns",
+    "Typed message input to drive the conversation",
+    "Auto-generated work order card from the call",
+    "Sticky status band with live audio meter and call clock"
+  ],
+  "technologies": ["HTML", "CSS", "JavaScript"],
+  "futureBackend": [
+    "Real speech-to-text & text-to-speech pipeline",
+    "LLM-driven conversation & intent extraction",
+    "Twilio/telephony integration",
+    "Work order sync to CRM",
+    "Multi-client business config storage",
+    "Call recording & analytics dashboard"
+  ],
+  "liveUrl": "https://ai-receptionist-demo-phi.vercel.app/",
+  "caseStudyUrl": "https://ai-receptionist-demo-phi.vercel.app/"
 }
 ]
