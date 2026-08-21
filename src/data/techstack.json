@@ -10,5 +10,7 @@
   { "name": "GitHub", "icon": "github", "level": "Expert", "category": "Tooling", "blurb": "CI/CD, actions, collaboration." },
   { "name": "Axios", "icon": "axios", "level": "Expert", "category": "Frontend", "blurb": "Robust API service layers." },
   { "name": "REST API", "icon": "api", "level": "Expert", "category": "Backend", "blurb": "Versioned, documented endpoints." },
-  { "name": "Vite", "icon": "vite", "level": "Advanced", "category": "Tooling", "blurb": "Lightning dev & build tooling." }
+  { "name": "Vite", "icon": "vite", "level": "Advanced", "category": "Tooling", "blurb": "Lightning dev & build tooling." },
+  { "name": "OpenAI / LLMs", "icon": "openai", "level": "Advanced", "category": "AI", "blurb": "LLM-driven agents, conversation flows, intent extraction." },
+  { "name": "Twilio", "icon": "twilio", "level": "Advanced", "category": "AI", "blurb": "Voice & telephony integration for AI receptionists." }
 ]

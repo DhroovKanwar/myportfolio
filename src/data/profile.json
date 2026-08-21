@@ -2,7 +2,7 @@
   "name": "Dhruv Kanwar",
   "brand": "Dhruv Digital Solutions",
   "role": "Senior Full Stack Developer",
-  "tagline": "React frontends + Laravel backends for brands that mean business.",
+  "tagline": "React frontends + Laravel backends + AI-powered automation for brands that mean business.",
   "location": "Punjab, India",
   "email": "info@dhruvdigitalsolutions.in",
   "phone": "+91 XXXXXXXXXX",
@@ -13,7 +13,8 @@
   "bio": [
     "I'm Dhruv — a full stack developer who builds premium business websites that don't just look expensive, they perform. I pair pixel-obsessed React frontends with rock-solid Laravel backends.",
     "For the past six years I've helped startups, local businesses and growing brands turn visitors into paying customers with fast, accessible, conversion-focused websites.",
-    "My sweet spot is the full journey: strategy, interface design, front-of-house React, and the API/admin layer in Laravel + MySQL that keeps everything running."
+    "My sweet spot is the full journey: strategy, interface design, front-of-house React, and the API/admin layer in Laravel + MySQL that keeps everything running.",
+    "I also build AI-powered products — like an LLM-driven AI receptionist that handles calls, extracts intent and generates work orders in real time — bringing automation into the same stack."
   ],
   "principles": [
     { "title": "Conversion first", "text": "Every layout decision is measured against one question: does this help the visitor say yes?" },

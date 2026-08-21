@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import {
   Briefcase, Atom, Server, Layers, Webhook, LayoutDashboard,
-  Rocket, WandSparkles, ShieldCheck, ArrowUpRight,
+  Rocket, WandSparkles, ShieldCheck, Bot, ArrowUpRight,
 } from "lucide-react";
 import { useNavigate } from "react-router-dom";
 import services from "@/data/services.json";
@@ -11,7 +11,7 @@ import { cn } from "@/lib/utils";
 const ICONS = {
   briefcase: Briefcase, atom: Atom, server: Server, layers: Layers,
   webhook: Webhook, "layout-dashboard": LayoutDashboard, rocket: Rocket,
-  "wand-sparkles": WandSparkles, "shield-check": ShieldCheck,
+  "wand-sparkles": WandSparkles, "shield-check": ShieldCheck, bot: Bot,
 };
 
 export default function ServicesSection() {

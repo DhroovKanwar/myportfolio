@@ -17,6 +17,8 @@ const SLUGS = {
   github: "github",
   axios: "axios",
   vite: "vite",
+  openai: "openai",
+  twilio: "twilio",
 };
 
 export default function TechIcon({ icon, className = "h-10 w-10" }) {

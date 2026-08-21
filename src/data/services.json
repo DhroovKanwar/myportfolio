@@ -7,5 +7,6 @@
   { "num": "06", "title": "Admin Panel Development", "icon": "layout-dashboard", "text": "Custom dashboards to manage content, orders, users and analytics without touching code." },
   { "num": "07", "title": "Landing Pages", "icon": "rocket", "text": "High-impact landing pages engineered to capture leads and drive a single, clear action." },
   { "num": "08", "title": "Website Redesign", "icon": "wand-sparkles", "text": "Transform a dated site into a premium experience that reflects the quality of your work." },
-  { "num": "09", "title": "Website Maintenance", "icon": "shield-check", "text": "Ongoing updates, performance, security and support so your site stays fast and flawless." }
+  { "num": "09", "title": "Website Maintenance", "icon": "shield-check", "text": "Ongoing updates, performance, security and support so your site stays fast and flawless." },
+  { "num": "10", "title": "AI Voice Agents & Automation", "icon": "bot", "text": "LLM-powered receptionists, chatbots and workflow automation that handle calls, capture leads and save your team hours." }
 ]

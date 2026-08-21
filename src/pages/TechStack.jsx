@@ -7,7 +7,7 @@ import TechMarquee from "@/components/sections/TechMarquee";
 export default function TechStack() {
   return (
     <>
-      <SEO title="Tech Stack" description="The modern technologies powering Dhruv Digital Solutions: React, Laravel, PHP, JavaScript, TypeScript, Tailwind CSS, MySQL, Git, GitHub, Axios, REST API and Vite." path="/tech-stack" />
+      <SEO title="Tech Stack" description="The modern technologies powering Dhruv Digital Solutions: React, Laravel, PHP, JavaScript, TypeScript, Tailwind CSS, MySQL, Git, GitHub, Axios, REST API, Vite, OpenAI/LLMs and Twilio." path="/tech-stack" />
       <PageHeader
         overline="Tech Stack"
         title={<>A modern stack, <br /><span className="text-gradient">mastered.</span></>}

@@ -27,7 +27,7 @@ const SectionLink = ({ to, label }) => (
 export default function Home() {
   return (
     <>
-      <SEO title="Senior Full Stack Developer" description="Dhruv Digital Solutions builds premium React frontends and Laravel backends that convert visitors into customers for startups and growing brands." path="/" />
+      <SEO title="Senior Full Stack Developer" description="Dhruv Digital Solutions builds premium React frontends, Laravel backends and AI-powered automation — like AI receptionists — that convert visitors into customers for startups and growing brands." path="/" />
 
       <Hero />
 
