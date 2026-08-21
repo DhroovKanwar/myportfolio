@@ -36,7 +36,7 @@ export default function Footer() {
           <div className="col-span-2 md:col-span-1">
             <Link to="/" className="flex items-center gap-2">
               <span className="grid h-9 w-9 place-items-center rounded-xl bg-foreground font-display text-lg font-bold text-background">D</span>
-              <span className="font-display text-lg font-bold tracking-tight">Dhruv<span className="text-accent">.</span>Codes</span>
+              <span className="font-display text-lg font-bold tracking-tight">Dhruv Digital Solutions</span>
             </Link>
             <p className="mt-4 max-w-xs text-sm text-muted-foreground">{profile.tagline}</p>
             <SocialLinks size="sm" className="mt-6" />
