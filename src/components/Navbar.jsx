@@ -40,7 +40,7 @@ export default function Navbar() {
           to="/"
           data-testid="navbar-brand"
           className="flex items-center gap-2 pl-2"
-          aria-label="Dhruv Codes home"
+          aria-label="Dhruv Digital Solutions home"
         >
           <span className="grid h-9 w-9 place-items-center rounded-xl bg-foreground font-display text-lg font-bold text-background">
             D

@@ -8,7 +8,7 @@ import SocialSection from "@/components/sections/SocialSection";
 export default function Testimonials() {
   return (
     <>
-      <SEO title="Testimonials" description="What founders and business owners say about working with Dhruv Codes — premium results, clear communication and reliable delivery." path="/testimonials" />
+      <SEO title="Testimonials" description="What founders and business owners say about working with Dhruv Digital Solutions — premium results, clear communication and reliable delivery." path="/testimonials" />
       <PageHeader
         overline="Testimonials"
         title={<>Trusted by brands <br /><span className="text-gradient">that grew.</span></>}

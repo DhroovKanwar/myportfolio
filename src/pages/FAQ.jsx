@@ -6,7 +6,7 @@ import FaqSection from "@/components/sections/FaqSection";
 export default function FAQ() {
   return (
     <>
-      <SEO title="FAQ" description="Answers to common questions about technologies, timelines, Laravel backends, maintenance and how to get started with Dhruv Codes." path="/faq" />
+      <SEO title="FAQ" description="Answers to common questions about technologies, timelines, Laravel backends, maintenance and how to get started with Dhruv Digital Solutions." path="/faq" />
       <PageHeader
         overline="FAQ"
         title={<>Everything you <br /><span className="text-gradient">need to know.</span></>}

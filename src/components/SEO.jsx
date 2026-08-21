@@ -17,7 +17,7 @@ const setMeta = (name, content, attr = "name") => {
 
 export default function SEO({ title, description, path = "" }) {
   useEffect(() => {
-    const fullTitle = title ? `${title} — Dhruv Codes` : "Dhruv Codes — Senior Full Stack Developer";
+    const fullTitle = title ? `${title} — Dhruv Digital Solutions` : "Dhruv Digital Solutions — Senior Full Stack Developer";
     document.title = fullTitle;
     setMeta("description", description);
     setMeta("og:title", fullTitle, "property");

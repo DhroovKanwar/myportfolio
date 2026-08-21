@@ -6,7 +6,7 @@ import ContactSection from "@/components/sections/ContactSection";
 export default function Contact() {
   return (
     <>
-      <SEO title="Contact" description="Start a project with Dhruv Codes. Send an inquiry, message on WhatsApp or book a free consultation." path="/contact" />
+      <SEO title="Contact" description="Start a project with Dhruv Digital Solutions. Send an inquiry, message on WhatsApp or book a free consultation." path="/contact" />
       <PageHeader
         overline="Contact"
         title={<>Let's build <br /><span className="text-gradient">something great.</span></>}
